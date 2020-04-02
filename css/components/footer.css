@@ -1,0 +1,26 @@
+
+.footer {
+  background-color: #2b2b2b;
+  text-align: center;
+  padding: 50px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+  padding: 4px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.fab {
+  color: #636564;
+  font-size: 32px;
+}
+
+.fab:hover {
+  color: #69de89;
+}
